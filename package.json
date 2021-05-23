@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d 3d-webgl"
+    "deploy": "gh-pages -d ."
   },
   "author": "",
   "license": "ISC",
